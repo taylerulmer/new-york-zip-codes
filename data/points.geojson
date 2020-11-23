@@ -1,0 +1,2987 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.972927,40.793793 ]
+    },
+    "properties": {
+    "Venue Name":"1/2/3 Train Station 96th and Broadway ",
+    "Type of Location":"MTA",
+    "Address":"Broadway Ave Between 96th and 95th ",
+    "Zipcode":10025,
+    "Venue Description":"Since this was during rush hour, there was a lot of foot traffic. Right outside of the station there is a series of benches are areas to sit but that is used by the homeless population in that are, Furthermore, across from the station is an island that has sufficient space but would be hard to attract passersby especially at night because it’s out of the way of peoples usual destinations. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9525143,40.798268 ]
+    },
+    "properties": {
+    "Venue Name":"110th Street Station Central Park North ",
+    "Type of Location":"MTA",
+    "Address":"West 110th Street & Malcolm X Boulevard\nNew York, NY 10026",
+    "Zipcode":10026,
+    "Venue Description":"In the area there were a lot of people walking around or sitting down on the stone tree pits. There was an information table with people interviewing passersby for a neighborhood project so setting up a recruitment station should be fine. It's also right across from Central Park Entrance. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9582361,40.8031131 ]
+    },
+    "properties": {
+    "Venue Name":"113th St. Playground",
+    "Type of Location":"Recreational",
+    "Address":"Morningside Ave. & W 113th St., New York, NY, 10026 ",
+    "Zipcode":10026,
+    "Venue Description":"Steady flow of traffic around the playground, especially on the path that runs in front of the pond (pictured). Researchers would have lots of room to set up their research materials, and the area is easily accessible from Manhattan Ave."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9433299,40.8173411 ]
+    },
+    "properties": {
+    "Venue Name":"135th Street Station 2/3 ",
+    "Type of Location":"MTA",
+    "Address":"New York, NY 10030",
+    "Zipcode":10037,
+    "Venue Description":"Very very busy, it was very hard to count all of the people going in and out of the station. Right across from the Harlem Hospital Center "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9280578,40.8101924 ]
+    },
+    "properties": {
+    "Venue Name":"138th & Third Ave",
+    "Type of Location":"Retail Venue Cluster",
+    "Address":"3716, 270 E 137th St, The Bronx, NY 10454, United States",
+    "Zipcode":10454,
+    "Venue Description":"- large Afro-Latinx population\n- popular breakfast cart & fruit stand\n- bus stop for Bx21 & Bx32 with line ~11 long\n- languages heard: French (x1), Spanish (x7)\n- 6 train stop has exit @ 138th & Third, but few people (~15) exited"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9192229,40.8074897 ]
+    },
+    "properties": {
+    "Venue Name":"138th St between Brooks and St. Anns Ave",
+    "Type of Location":"Retail Venue Cluster",
+    "Address":"510-550 E 138th St",
+    "Zipcode":10454,
+    "Venue Description":"- located on a major thoroughfare, adjacent to an MTA station\n- diverse array of retail establishments: convenience stores, bodegas, restaurants, hardware store, clothing stores, as well as street vendors selling fruit, Puerto Rican flags, and PPE\n- population skews female\n- active street life facilitated by street vendors & wide sidewalks"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9221584,40.8175239 ]
+    },
+    "properties": {
+    "Venue Name":"149th & Morris Ave",
+    "Type of Location":"Retail Venue Cluster",
+    "Address":"279 E 149th St, The Bronx, NY 10451, United States",
+    "Zipcode":10451,
+    "Venue Description":"- this retail cluster includes several restaurants and bodegas as well as a bank, grocery store, tax service, and pharmacy\n- the area seems to have a large muslim population, with many women sporting headdresses (which accounts for some of population whose racial demographics could not be ascertained) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9156438,40.8291115 ]
+    },
+    "properties": {
+    "Venue Name":"165th & College Ave",
+    "Type of Location":"Retail Venue Cluster",
+    "Address":"281 E 165th",
+    "Zipcode":10456,
+    "Venue Description":"- older men in African garb and headwear were barbequing in the street, with grills set up in parking spaces, community members of all age groups gathered on the sidewalks on foldering chains and stoops\n- the population was predominantly Black, a large proportion of whom were West African"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9067323,40.8466186 ]
+    },
+    "properties": {
+    "Venue Name":"175th & Monroe",
+    "Type of Location":"Retail Venue Cluster",
+    "Address":"1791 Monroe Ave",
+    "Zipcode":10457,
+    "Venue Description":"- this small retail cluster, comprising a restaurant, barber shop, and dry cleaner, is encircled by medium-density residential housing\n- community members hang out along the street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.907998,40.825395 ]
+    },
+    "properties": {
+    "Venue Name":"3rd & Boston",
+    "Type of Location":"Street Venue Cluster",
+    "Address":"3302 Third Ave",
+    "Zipcode":10456,
+    "Venue Description":"- I conducted my observations from an unnamed triangle park, whose southern point offers a wide concrete plaza that may provide enough space for a recruitment tent\n- passersby momentarily congregated on the steps that bisect this green space\n- this intersection sees lots of bus traffic (Bx21 and Bx15)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9671163,40.7939667 ]
+    },
+    "properties": {
+    "Venue Name":"808 Columbus Ave ",
+    "Type of Location":"Retail Venue Cluster",
+    "Address":"808 Columbus Ave New York, NY 10025 ",
+    "Zipcode":10025,
+    "Venue Description":"This particular Sephora serves about 300 people daily. Must call corporate to pass on information about study. Next to a parking lot that could serve as a spot for a recruitment van/station. Very busy retail cluster with many stands along the street.  "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9742299,40.7915131 ]
+    },
+    "properties": {
+    "Venue Name":"91st and Broadway ",
+    "Type of Location":"Street Venue Cluster",
+    "Address":"91st snd Broadway ",
+    "Zipcode":10025,
+    "Venue Description":"Busy area; difficult to track demographics as it got darker. Lot of food carts and vendor stands; may be difficult to find space for a recruitment station. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9703639,40.7940591 ]
+    },
+    "properties": {
+    "Venue Name":"96th and Amsterdam",
+    "Type of Location":"MTA",
+    "Address":"96th and Amsterdam",
+    "Zipcode":10025,
+    "Venue Description":"Right in front of a busy MTA bus stop. This street is very busy and packed with various street vendor stands. It would be congested and volunteers may have to find a place to stand if asked do whatever it is they have to do. Most people walking by were adults some with young children. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9664964,40.7996824 ]
+    },
+    "properties": {
+    "Venue Name":"99 Cent Plus",
+    "Type of Location":"Retail",
+    "Address":"912 Amsterdam Ave., New York, NY, 10025",
+    "Zipcode":10025,
+    "Venue Description":"Observed several individuals (~5) entering the venue within a short time frame (~1 minute); however, manager mentioned that they only receive ~60 patrons per day. Individuals entering the store were all outwardly-facing men, but manager said that most of the customers tend to be outwardly-facing women - all adults. Said it was consistently busy throughout the day and couldn't identify specific set of busiest hours. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9105444,40.8314024 ]
+    },
+    "properties": {
+    "Venue Name":"99 Cents Amazing",
+    "Type of Location":"Retail Venue Cluster",
+    "Address":"1181 Webster Ave, Bronx, NY 10456",
+    "Zipcode":10456,
+    "Venue Description":"Busiest times are 8:30am-12pm and 3-8pm. Not privately owned. On a busy street/part of the Webster Ave retail cluster."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.940893,40.817194 ]
+    },
+    "properties": {
+    "Venue Name":"Abyssinian Tot Lot",
+    "Type of Location":"Recreational",
+    "Address":"130 W 139th St., New York, NY, 10030",
+    "Zipcode":10030,
+    "Venue Description":"Area mostly populated by a fitness class for people who all appeard to be age 60+; however, a few other people entered the venue. When I passed the venue later in the morning (around 11:30am) there were ~8 kids and ~3 adults in the park. On the park sign it said that November through March the operating times are 6:00-18:00 (except when school is in session); however, people were still in the park from 9:15-9:45 when I was doing my observation, which was when school was in session. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9108486,40.8297406 ]
+    },
+    "properties": {
+    "Venue Name":"Africa United Food Corp",
+    "Type of Location":"Retail",
+    "Address":"1104 Webster Ave",
+    "Zipcode":10456,
+    "Venue Description":"- Fatoumata's grocery store almost exclusively services a West African community – predominant immigrant groups include Guinea, Senegal, and Ghana\n- the store is somewhat of a multipurpose community venue, with a butcher, supermarket, and prayer room\n- this supermarket sees over 50 customers a day, and many more on weekends and holidays; its customers are largely adults, with some seniors and a few teens\n- its busiest times come at the end of shift, in the afternoons"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9132142,40.8191381 ]
+    },
+    "properties": {
+    "Venue Name":"Aldi",
+    "Type of Location":"Retail Venue Cluster",
+    "Address":"3006 Third Ave, Bronx, NY, 10455",
+    "Zipcode":10455,
+    "Venue Description":"Part of the retail cluster (Third Ave). Very busy at this time (3pm), and had a diverse group of people. Manager declined an interview. Busy street and sidewalk, there is a place to park a van outside. (There was a food truck parked outside.)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9178871,40.8091669 ]
+    },
+    "properties": {
+    "Venue Name":"American Dream Charter School",
+    "Type of Location":"School",
+    "Address":"510 E 141st St, Bronx, NY 10454",
+    "Zipcode":10454,
+    "Venue Description":"Seems that 1:50-2:15pm is pick up time for these schools. Adults line up by two entrances to the school to pick up their kids. There was an even mix of male and female adults. Street venue that covers three schools: 1 middle school and 2 elementary schools. Could set up recruitment stations outside each entrance when the parents are waiting."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9528586,40.813551 ]
+    },
+    "properties": {
+    "Venue Name":"Amor Deli/ Grocery ",
+    "Type of Location":"Other",
+    "Address":"21 Convent Ave, New York, NY 10027",
+    "Zipcode":10027,
+    "Venue Description":"Good walking sidewalk space, can set up recruitment station. This area is very quiet and residential. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9657329,40.800418 ]
+    },
+    "properties": {
+    "Venue Name":"Amsterdam and W 106 ",
+    "Type of Location":"Street Venue Cluster",
+    "Address":"Amsterdam W 106",
+    "Zipcode":10025,
+    "Venue Description":"Very busy, two bus stops; space for a recruitment station. Most passersby were students studying at Barnard, Teachers College, or Coloumbia. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9190353,40.8391218 ]
+    },
+    "properties": {
+    "Venue Name":"Antillana Supermarket",
+    "Type of Location":"Retail",
+    "Address":"1339 Jerome Ave, Bronx, NY 10452",
+    "Zipcode":10452,
+    "Venue Description":"Mainly Latinx, Spanish-speaking. There is a place to set up tent/recruitment station or a van outside."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9052104,40.8212344 ]
+    },
+    "properties": {
+    "Venue Name":"Associated Supermarkets",
+    "Type of Location":"Retail",
+    "Address":"724 E 161st",
+    "Zipcode":10456,
+    "Venue Description":"- Frank could not give a customer count, but said that his busiest days are fridays, and busiest hours are 12:30-2PM on school days, when students from New Visions, Jane Addams, and Jill Chaifetz High Schools patronize Associated Supermarkets for off-campus lunch\n- their clientele is more female than male, with an age range of 20-30 and a noticibly younger skew\n- Frank says his customer base tilts Black/Latinx, but he gets a good deal of white customers as well – oftentimes, he notes, white customers are construction workers and teachers, not community members"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.928145,40.812112 ]
+    },
+    "properties": {
+    "Venue Name":"Bagel & Barista",
+    "Type of Location":"Restaurant",
+    "Address":"221 E 138th",
+    "Zipcode":10451,
+    "Venue Description":"- Khristina could not approximate a number of daily customers, says lately it \"has fluctuated a lot\"\n- the shop largely services construction and industrial workers, and thus, has a majority-male customer base; Khristina estimates the average age of her customers to be 25-40, with a younger skew. Most patrons are Latinx.\n- The shop is surrounded by industry: warehouses, suppliers, iron works, car shops"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.894288,40.852768 ]
+    },
+    "properties": {
+    "Venue Name":"Bathgate Playground",
+    "Type of Location":"Recreational",
+    "Address":"2130 Washington Ave, Bronx, NY 10457",
+    "Zipcode":10457,
+    "Venue Description":"Park with playground, track, and central area with benches. Some teenagers, women with younger kids at the playground, and men sitting on the benches."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9544781,40.8061261 ]
+    },
+    "properties": {
+    "Venue Name":"Best Market Harlem ",
+    "Type of Location":"Retail",
+    "Address":"2187 Frederick Douglass Blvd., New York, NY, 10026",
+    "Zipcode":10026,
+    "Venue Description":"Receive roughly 2000 customers per day. Manager stressed that customers are very diverse, and represent an equal mix of ages, genders, and races. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9250626,40.8075337 ]
+    },
+    "properties": {
+    "Venue Name":"Bill Rainey Park",
+    "Type of Location":"Recreational",
+    "Address":"367 E 135th",
+    "Zipcode":10455,
+    "Venue Description":"- at Bill Rainey Park, a younger, predominantly male crowd gather at benches adjacent to PS 39, while seniors, dog-walkers, and families with strollers gather on the pathway parallel to Dawson Street\n- the park had few children, though more may congregate when school lets out at the adjacent PS 39"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9508797,40.8254132 ]
+    },
+    "properties": {
+    "Venue Name":"Bliss Beauty Supply",
+    "Type of Location":"Retail",
+    "Address":"3512 Broadway, New York, NY, 10031",
+    "Zipcode":10031,
+    "Venue Description":"Serve approximately 50 customers per day. Lots of room to recruit outside. Mentioned that their age range is very wide - from 16 to 60. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9666512,40.799139 ]
+    },
+    "properties": {
+    "Venue Name":"Bloomingdale Playground",
+    "Type of Location":"Recreational",
+    "Address":"Amsterdam Ave. & W 104th St., New York, NY, 10025",
+    "Zipcode":10025,
+    "Venue Description":"Lots of young children with their parents/guardians; there was a school right beside the park, so there was heavy foot traffic for school drop off. I started the observation at 8:34 and there was pretty consistent heavy traffic until about 8:55 (which I think corresponded to the start of school). "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9653485,40.806807 ]
+    },
+    "properties": {
+    "Venue Name":"Book Culture on Broadway ",
+    "Type of Location":"Retail",
+    "Address":"2915 Broadway, New York, NY 10025",
+    "Zipcode":10025,
+    "Venue Description":"About 500 daily shoppers, 4 in store at a time, there is a sidewalk bridge so there may not be space for a recruitment station. Interesed in being contacted about the study. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9059682,40.8178546 ]
+    },
+    "properties": {
+    "Venue Name":"Bravo Supermarket",
+    "Type of Location":"Retail",
+    "Address":"745 Westchester Ave, Bronx, NY 10455",
+    "Zipcode":10455,
+    "Venue Description":"Busiest times are 10 am and 3 pm. At busiest times there is estimated to be about 50 people in the store at a time. Area in front that would be safe for a van recruitment station."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9245667,40.8412024 ]
+    },
+    "properties": {
+    "Venue Name":"Bravo Supermarket",
+    "Type of Location":"Retail",
+    "Address":"156 W 170th St, Bronx, NY 10452",
+    "Zipcode":10452,
+    "Venue Description":"Privately owned. Busiest times are after 4pm on weekdays."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9008094,40.8506095 ]
+    },
+    "properties": {
+    "Venue Name":"Bravo Supermarket",
+    "Type of Location":"Retail",
+    "Address":"309 E Burnside Ave, Bronx, NY 10457",
+    "Zipcode":10457,
+    "Venue Description":"On a corner with sidewalk space for a recruitment station. Mainly adults shopping at this time. Manager declined an interview."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.918354,40.818875 ]
+    },
+    "properties": {
+    "Venue Name":"Bravo Supermarket",
+    "Type of Location":"Retail",
+    "Address":"640 Courtlandt Ave, Bronx, NY 10451",
+    "Zipcode":10451,
+    "Venue Description":"Busiest in the afternoon (3-6pm). It is privately owned. This would be a good place to set up a van recruitment station, sidewalk may be too small for a tent."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9477005,40.8295187 ]
+    },
+    "properties": {
+    "Venue Name":"Broadway & W 150th St.",
+    "Type of Location":"Recreational",
+    "Address":"569 W 150th St Floor 5, New York, NY 10031, United States",
+    "Zipcode":10031,
+    "Venue Description":"Over the 30 minute observation period, foot traffic was heavy and consistent. 'Sugar Hill Creamery' appeared to be a main attraction, as there was long line outside; however, neighboring stores also garnered significant foot traffic. Sufficient space to set up a recruitment station. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9265215,40.8188782 ]
+    },
+    "properties": {
+    "Venue Name":"Bronx General Post Office",
+    "Type of Location":"Other",
+    "Address":"558 Grand Councourse",
+    "Zipcode":10451,
+    "Venue Description":"- the post office had a disproportionately senior draw, while the commercial row parallel to the office (including a Popeyes, 7-Eleven, and Burger King) attracted a younger crowd\n- in front of the post office there is a large plaza in which a diverse group congregates; popular spot for lunch breaks\n- the post office is situated in a major transit corridor, serviced by the 2,4, and 5 train, and Bx1, Bx99, Bx19, and Bx2 buses"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9008093,40.8474235 ]
+    },
+    "properties": {
+    "Venue Name":"Burger King",
+    "Type of Location":"Restaurant",
+    "Address":"400 E Tremont Ave",
+    "Zipcode":10457,
+    "Venue Description":"- Kath estimated 300 customers a day, with a lunchtime rush from noon-3PM; most patrons age 30+ and are split evenly among genders and Black/Latinx\n- recruitment at this Burger King may not be possible – the manager seemed relatively disinterested when I mentioned the community partners program, and she only provided the store's general phone number, rather than her own"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9553624,40.8204466 ]
+    },
+    "properties": {
+    "Venue Name":"Bus Stop Diner",
+    "Type of Location":"Restaurant",
+    "Address":"3341 Broadway, New York, NY 10031",
+    "Zipcode":10031,
+    "Venue Description":"Sidewalk bridge may cause some issues to set up for recruitment. Close to a bus stop. Owner does not have a good sense of the demographics or clientele."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9618754,40.8038356 ]
+    },
+    "properties": {
+    "Venue Name":"Cathedral Church of St. John the Divine ",
+    "Type of Location":"Place of Worship",
+    "Address":"1047 New Amsterdam 10025 ",
+    "Zipcode":10025,
+    "Venue Description":"Can use the sidewalk anytime according to the people who run it, free to use as they don't control what happens past the steps Very wide sidewalk area with a lot of foot traffic."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8914763,40.8453585 ]
+    },
+    "properties": {
+    "Venue Name":"CJ Premium by City Jeans",
+    "Type of Location":"Retail",
+    "Address":"690 E Tremont Ave, Bronx, NY 10457",
+    "Zipcode":10457,
+    "Venue Description":"Busiest at 9-11am and 1-5pm. Privately owned. Large sidewalk for recruitment station. Mainly African-American customers."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9488864,40.797814 ]
+    },
+    "properties": {
+    "Venue Name":"Clara's Beauty Hair Salon",
+    "Type of Location":"Other",
+    "Address":"1330 5th Ave (Corner of 112th Street) New York, NY12006",
+    "Zipcode":10026,
+    "Venue Description":"The salon was full with women of all ages generally LatinX. Employee said COMPASS can reach out anytime and they are happy to help; gave me the owner's card. Store is on a corner and has substantial space outside for a station to be set up. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9561338,40.8139003 ]
+    },
+    "properties": {
+    "Venue Name":"Columbia Deli & Grill",
+    "Type of Location":"Retail",
+    "Address":"1348 Amsterdam Ave., New York, NY, 10027",
+    "Zipcode":10027,
+    "Venue Description":"Serve roughly 300 people per day (but they have lots of customers who return multiple times per day - manager thought they probably only saw 200 different people per day). Near a busy intersection with lots of foot traffic. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9616399,40.806893 ]
+    },
+    "properties": {
+    "Venue Name":"Columbia University - Morningside Campus South Lawn",
+    "Type of Location":"Recreational",
+    "Address":"500 W 116th St., New York, NY, 10027 ",
+    "Zipcode":10027,
+    "Venue Description":"Very steady flow of traffic throughout the 30 minute observation period. Lots of open space and room for researchers to set up their materials. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9686316,40.7919838 ]
+    },
+    "properties": {
+    "Venue Name":"Columbus Ave Between 94th and 95th ",
+    "Type of Location":"Street Venue Cluster",
+    "Address":"700 Columbus Avenue, New York, NY 10025",
+    "Zipcode":10025,
+    "Venue Description":"My observation took place outside of some apartments and food places. Not only was the foot traffic heavy, but there are a lot of different areas that would allow for a recruitment station to be set up as there is a lot of courtyard space in front of the apartments, but the sidewalks are very wide and are not congested with people. This area is fairly residential and does not have many chain corporations on the block. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9632293,40.7992141 ]
+    },
+    "properties": {
+    "Venue Name":"Columbus Avenue & W 106th St. ",
+    "Type of Location":"Retail Venue Cluster",
+    "Address":"934 Columbus Ave, New York, NY 10025, United States",
+    "Zipcode":10025,
+    "Venue Description":"This was a very busy stretch of Columbus Ave.  that is mostly populated by Black/AA & Latinx adult Men. I did my observation/count on the East side of Columbus Ave. but it seemed equally as busy on the West side. There were already people on the street setting up tables to enroll people in health insurance plans so there is definitely space for a recruitment station. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9393364,40.8022639 ]
+    },
+    "properties": {
+    "Venue Name":"Comfort Care Pharmacy ",
+    "Type of Location":"Retail",
+    "Address":"1990 Lexington Ave New York, NY 10035 ",
+    "Zipcode":10035,
+    "Venue Description":"Reach out to comfortcare72@gmail.com for more info- store generally busy but it depends on the weather according to employees."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9507462,40.8058234 ]
+    },
+    "properties": {
+    "Venue Name":"Corner of Adam Clayton Powell BLVD and West 120th ",
+    "Type of Location":"Retail Venue Cluster",
+    "Address":"Corner of Adam Clayton Powell BLVD and West 120th ",
+    "Zipcode":10026,
+    "Venue Description":"Fairly busy, residential area. There is a mosque on the corner that was enterend mainly by men. Spoke to one man who is from around the area who said that this would be a good time for foot traffic as most people are coming home from work and entering the mosque at this time."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9394987,40.8102071 ]
+    },
+    "properties": {
+    "Venue Name":"Courtney Callender Playground",
+    "Type of Location":"Recreational",
+    "Address":"5th Avenue & W 131st St., New York, NY, 10037",
+    "Zipcode":10037,
+    "Venue Description":"Busy park with a varied group of people - some people were there to play with their kids, some were working out & playing basketball, and others were just sitting on benches. Lots of people were walking by, too (on both W 131st St. & 5th Ave.). Enough room to set up a recruitment station."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.957795,40.814658 ]
+    },
+    "properties": {
+    "Venue Name":"CTown Market",
+    "Type of Location":"Retail",
+    "Address":"560 W 125th St., New York, NY, 10027",
+    "Zipcode":10027,
+    "Venue Description":"Serve minimum 2000 people per day. Typical age of their customers is 30-40. Said they serve a mix of races but mostly African and Spanish. Enough room for a recruitment station outside of the venue. Near a busy corner.  "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9033569,40.8348027 ]
+    },
+    "properties": {
+    "Venue Name":"CTown Supermarket",
+    "Type of Location":"Retail",
+    "Address":"3690 Third Ave, Bronx, NY 10456",
+    "Zipcode":10456,
+    "Venue Description":"Busiest in the afternoon (3-7pm). It is privately owned. You could park a van outside on a corner, but the sidewalk may be too small for a tent/recruitment station. Manager declined giving contact information."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9502641,40.8259985 ]
+    },
+    "properties": {
+    "Venue Name":"CVS Pharmacy",
+    "Type of Location":"Retail",
+    "Address":"3534 Broadway, New York, NY, 10031",
+    "Zipcode":10031,
+    "Venue Description":"Serve approximately 300 customers per day. Lots of foot traffic observed both inside and outside of the venue. Enough space outside to set up a recruitment station."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9222502,40.8169203 ]
+    },
+    "properties": {
+    "Venue Name":"CVS Pharmacy",
+    "Type of Location":"Retail",
+    "Address":"282 E 149th St, Bronx, NY 10451",
+    "Zipcode":10451,
+    "Venue Description":"Busiest times are 6-10am and 1-6pm. It is privately owned. It is on a busy street (E 149th St) so there is a lot of foot traffic. Manager declined giving contact information."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9456757,40.8083045 ]
+    },
+    "properties": {
+    "Venue Name":"CVS Pharmacy ",
+    "Type of Location":"Retail",
+    "Address":"115 W 125th St, New York, NY 10027",
+    "Zipcode":10027,
+    "Venue Description":"Spoke to the security guard and he said that about 1800 people come into the store daily and about 18,000 weekly. This street was very croweded today and there are  a lot of street vendors along the block. Most foot traffic into store is around 2pm. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9105384,40.8156739 ]
+    },
+    "properties": {
+    "Venue Name":"Dollar Tree",
+    "Type of Location":"Retail",
+    "Address":"612 Westchester Ave, Bronx, NY 10455",
+    "Zipcode":10455,
+    "Venue Description":"Mostly adults shopping. There is a big sidewalk in front of the store for recruitment stations. Manager declined an interview."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.918037,40.839326 ]
+    },
+    "properties": {
+    "Venue Name":"Dollar Tree",
+    "Type of Location":"Retail Venue Cluster",
+    "Address":"1364 Jerome Ave, Bronx, NY 10452",
+    "Zipcode":10452,
+    "Venue Description":"A diverse group of ages; mainly Latinx. Large sidewalk and on a corner. Good space for a recruitment station."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9405975,40.8054831 ]
+    },
+    "properties": {
+    "Venue Name":"Dr. Martin Luther King Jr. Blvd. & Madison Avenue",
+    "Type of Location":"Street Venue Cluster",
+    "Address":"52 E 125th St, New York, NY 10035, United States",
+    "Zipcode":10035,
+    "Venue Description":"Very steady flow of traffic over the observation period. There didn't appear to be any particular attraction; it was just a busy stretch of the street. Of note, there were a few nearby bus stops. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9397639,40.8011855 ]
+    },
+    "properties": {
+    "Venue Name":"Dr. Martin Luther King Jr. Blvd. and Park Ave.",
+    "Type of Location":"Street Venue Cluster",
+    "Address":"Dr. Martin Luther King Jr. Blvd. (observation done on north side) between Park Avenue and Lexington Avenue, New York, NY, 10035 ",
+    "Zipcode":10035,
+    "Venue Description":"Lots of foot traffic from nearby Harlem 125th St. Station and many people were getting on and off the bus on Dr. Martin Luther King Jr. Blvd. Mostly adult men.  "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9694351,40.7988276 ]
+    },
+    "properties": {
+    "Venue Name":"Duane Reade ",
+    "Type of Location":"Retail",
+    "Address":"2683 Broadway # 7, New York, NY 10025",
+    "Zipcode":10025,
+    "Venue Description":"According to the manager, the amount of people who come into the store depends on COVID Cases in NYC, but also the weather has impact on how many people come into the store. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9222273,40.8043693 ]
+    },
+    "properties": {
+    "Venue Name":"Dunkin Donuts",
+    "Type of Location":"Retail",
+    "Address":"114 Bruckner Blvd",
+    "Zipcode":10454,
+    "Venue Description":"- Molly estimates that her Dunkin gets ~700 customers on a daily basis, most of whom patronize the restaurant through its drive-thru\n- her customer base is split 50/50 between male & female and Black & Latinx; although it is a breakfast spot, Molly says her busiest hours are 4-10PM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.927495,40.8188166 ]
+    },
+    "properties": {
+    "Venue Name":"Dunkin Donuts",
+    "Type of Location":"Restaurant",
+    "Address":"555 Grand Councourse",
+    "Zipcode":10451,
+    "Venue Description":"- though the manager was out, John, an employee, provided his district manager's contact information \n- John estimated that Monday through Wednesday, the store saw 300 customers, but only saw 150 thursday through sunday\n- customers' average age was 30-35, however adolescent boys and girls often stop in after high school lets out. Seniors are much less prevalent (~10%)\n- because this Dunkin sees a lot of construction and hospital workers, John says, his customer base is racially heterogenous, composed in equal parts by Black, white, and Latinx patrons"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8977452,40.8444312 ]
+    },
+    "properties": {
+    "Venue Name":"Dunkin Donuts",
+    "Type of Location":"Restaurant",
+    "Address":"4115 Third Ave",
+    "Zipcode":10457,
+    "Venue Description":"- Enoch Isaiah estimated that he sees ~450 customers daily, split evenly between walk-ins and drive-thrus; he says his average customer is a 25 year old woman\n- he estimates that his clientele is equal parts white, Black, and Latinx"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9190145,40.8255424 ]
+    },
+    "properties": {
+    "Venue Name":"Dunkin'",
+    "Type of Location":"Restaurant",
+    "Address":"260 E 161st St, Bronx, NY 10451",
+    "Zipcode":10451,
+    "Venue Description":"Busy times are “rush hour\" and 2-5pm. Part of a retail cluster (E 161st St), next to large shopping center (Concourse Plaza). Best time to reach manager (Brenda) is evenings. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.910745,40.8310612 ]
+    },
+    "properties": {
+    "Venue Name":"Dunkin'",
+    "Type of Location":"Retail Venue Cluster",
+    "Address":"1167 Webster Ave, Bronx, NY 10456",
+    "Zipcode":10456,
+    "Venue Description":"Busiest times are 7-10am. Not privately owned. On a busy street corner and has a bus stop in front so there is a lot of foot traffic. Space on sidewalk for recruitment station. Part of Webster Ave retail cluster."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9562623,40.8137238 ]
+    },
+    "properties": {
+    "Venue Name":"Dunkin' Donuts",
+    "Type of Location":"Retail",
+    "Address":"1342 Amsterdam Ave., New York, NY, 10027",
+    "Zipcode":10027,
+    "Venue Description":"Serve roughly 200-250 people per day. Lots of foot traffic outside. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9187827,40.8076948 ]
+    },
+    "properties": {
+    "Venue Name":"Dunkin/Baskin Robins",
+    "Type of Location":"Restaurant",
+    "Address":"513 E 138th St, Bronx, NY 10454",
+    "Zipcode":10454,
+    "Venue Description":"Busy times are morning, around 8am-12pm. Mainly adults. Right by a subway entrance and on the main street (138th street) so there should be a lot of foot traffic."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9382094,40.8036394 ]
+    },
+    "properties": {
+    "Venue Name":"E 124th St. & Lexington Avenue",
+    "Type of Location":"Street Venue Cluster",
+    "Address":"2032 Lexington Ave, New York, NY 10035, United States",
+    "Zipcode":10035,
+    "Venue Description":"Very steady flow of traffic over the observation period. There didn't appear to be any particular attraction; it was just a busy stretch of the street. Of note, there were a few nearby bus stops. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.938047,40.8097319 ]
+    },
+    "properties": {
+    "Venue Name":"El Patio Deli",
+    "Type of Location":"Restaurant",
+    "Address":"2082 Madison Avenue, New York, NY, 10037",
+    "Zipcode":10037,
+    "Venue Description":"Serve ~100 people everyday. Story was busy and I observed heavy foot traffic around this intersection (at E 131st St. & Madison Ave.) compared to others. Owner might be particuarly amenable to recruitment outside their store because store clerks & the manager were speaking to me about how hard COVID has been for their community/store and seemed generally interested in the study. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9285079,40.816984 ]
+    },
+    "properties": {
+    "Venue Name":"Eveline Antonetty Playground",
+    "Type of Location":"Recreational",
+    "Address":"425 Grand Councourse",
+    "Zipcode":10451,
+    "Venue Description":"- families with young children (avg. ages 4-5) gathered at climbing structures on the park's periphery, while young adults used the councrete ping pong tables at the park's northeast corner. Other, lone individuals sat on benches that ringed the astroturf patch\n- the park is flanked by construction sites, which may become loud and unappealing during the work week, decreasing the park's already modest population"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9529391,40.81405 ]
+    },
+    "properties": {
+    "Venue Name":"Express 1 Laundromat",
+    "Type of Location":"Other",
+    "Address":"33 Convent Ave New York, NY 10027",
+    "Zipcode":10027,
+    "Venue Description":"A lot of sidewalk space; area is mainly residential but there are a lot of people hanging around for long amounts of time.  "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9097575,40.8327121 ]
+    },
+    "properties": {
+    "Venue Name":"Family Dollar",
+    "Type of Location":"Retail",
+    "Address":"1227 Webster Ave, Bronx, NY 10456",
+    "Zipcode":10456,
+    "Venue Description":"Busiest times are 12-3pm and 3-6pm. Even mix of women and men. Manager declined to give contact information."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9066342,40.8108382 ]
+    },
+    "properties": {
+    "Venue Name":"Family Dollar",
+    "Type of Location":"Retail",
+    "Address":"475 Southern Blvd",
+    "Zipcode":10455,
+    "Venue Description":"- a longtime worker estimated that the store saw ~250-300 daily shoppers, split 50-50 amongst genders, with an average age range of 35-40; she stated that although the store saw a fair amount of seniors, it had few adolescent and children patrons\n- however, the store's manager stated that to be considered as a recruitment venue, we would \"have to go through corporate\" – he declined to take the NIH letter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9251207,40.8287955 ]
+    },
+    "properties": {
+    "Venue Name":"Family Dollar",
+    "Type of Location":"Retail",
+    "Address":"910 River Ave, The Bronx, NY 10452, United States",
+    "Zipcode":10452,
+    "Venue Description":"- Morda estimated that this Family Dollar gets upwards of 100 customers a day; her busiest hours are from noon until 7 PM\n- the gender split is approximately 50/50, and she says that all adult age groups are represented equally in her clientele\n- her store's clientele is predominantly black, but she has many hispanic patrons"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9519417,40.7994251 ]
+    },
+    "properties": {
+    "Venue Name":"Fine Fare Supemarkets ",
+    "Type of Location":"Street Venue Cluster",
+    "Address":"37 Lenox Ave New York, NY 10026",
+    "Zipcode":10026,
+    "Venue Description":"Close to a transition and exit to central park, this venue is very good for recruitment, In fact, there were recruiters right outside of the station so one could assume that a lot of places look to this area as a hotspot. There are a lot of people who hang around in different clusters along this street and people sitting on the stone tree pits outside of the station.  When it comes to tthe grocery store it is busiest on weekends. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8907414,40.8450224 ]
+    },
+    "properties": {
+    "Venue Name":"Fine Fare Supermarket",
+    "Type of Location":"Retail",
+    "Address":"708 E Tremont Ave, Bronx, NY 10457",
+    "Zipcode":10457,
+    "Venue Description":"Very busy at this time. Small sidewalk, so it may be hard to set up a tent, van may be better for this location. Manager was too busy for an interview, said to come back at another time/day."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9214286,40.8208098 ]
+    },
+    "properties": {
+    "Venue Name":"Fine Fare Supermarket",
+    "Type of Location":"Retail",
+    "Address":"675 Morris Ave, Bronx, NY 10451",
+    "Zipcode":10451,
+    "Venue Description":"Busiest times are in the morning (8-11am), and in the afternoon after 5pm. Luiz said that it is mainly customers over 60 in the morning, and a mix of ages/genders in the afternoon. It is privately owned. Mainly African-American customers."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.92744,40.835812 ]
+    },
+    "properties": {
+    "Venue Name":"Fine Fare Supermarket",
+    "Type of Location":"Retail",
+    "Address":"1136 Ogden Ave",
+    "Zipcode":10452,
+    "Venue Description":"- Brian estimates age of his clientele ranges from 25 to 50, with a fair amount of senior shoppers\n- Brian says that Fine Fare's gender distribution is even and the vast majority of its customers are African-American, with some Latinx shoppers\n- Its busiest hours are from 4-6pm, and busiest day is Saturday"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9531111,40.8031965 ]
+    },
+    "properties": {
+    "Venue Name":"First Corinthian Church",
+    "Type of Location":"Place of Worship",
+    "Address":"1912 Adam Clayton Powell Jr. Blvd., New York, NY, 10026",
+    "Zipcode":10026,
+    "Venue Description":"There was a very large number of people congregated outside of this church, largely because the church was giving out food. In addition, there was a large number of passersby; overall, it seemed like a very high-traffic area with enough space to be suitable for recruitment. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.911937,40.8210679 ]
+    },
+    "properties": {
+    "Venue Name":"Flynn Playground",
+    "Type of Location":"Recreational",
+    "Address":"3080 Third Ave, Bronx, NY 10451",
+    "Zipcode":10451,
+    "Venue Description":"Park with playground, basketball courts, and benches. Large space to set up a tent/recruitment station. Quieter on Saturday morning, passed this park on 11/6/20 and it was very busy during the afternoon on a weekday."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9301956,40.8201728 ]
+    },
+    "properties": {
+    "Venue Name":"Food Bazaar Supermarket ",
+    "Type of Location":"Retail",
+    "Address":"610 Exterior St, Bronx, NY 10451",
+    "Zipcode":10451,
+    "Venue Description":"Busy times are 5-9m. Manager estimated about 12,00 people in the store daily and about 6,000 people in the store during busy hours. Part of a large shopping complex in a high traffic area. Manager did not want to give personal contact information. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9196679,40.8252078 ]
+    },
+    "properties": {
+    "Venue Name":"Food Bazaar Supermarket ",
+    "Type of Location":"Retail Venue Cluster",
+    "Address":"238 E 161st St, Bronx, NY 10451",
+    "Zipcode":10451,
+    "Venue Description":"Large supermarket, very busy at this time. Diverse group of people. Part of a shopping complex (Concourse Plaza) with a large parking lot. Manager declined an interview, but said a better time to contact the store is during a weekday."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9025028,40.8355476 ]
+    },
+    "properties": {
+    "Venue Name":"Food Bazaar Supermarket ",
+    "Type of Location":"Retail",
+    "Address":"540 Saint Pauls Pl, Bronx, NY 10456",
+    "Zipcode":10456,
+    "Venue Description":"Busiest times are 9-11am and 5-9pm. Mainly Latinx (Puerto Rican and Dominican). Privately owned. Large parking lot would be good for recruitment station. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9209028,40.8030731 ]
+    },
+    "properties": {
+    "Venue Name":"Food Fest Depot",
+    "Type of Location":"Retail",
+    "Address":"500 E 132nd St",
+    "Zipcode":10454,
+    "Venue Description":"- Evan estimated gender split to be 50-50\n- clientele largely West African, followed by Spanish speakers, followed by a broad mix of others\n- large discount superstore with bulk groceries at lower prices – caters to food stamp recipients\n- venue assets include a large parking lot and freeway access\n- busy periods: 10am-5pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9147818,40.8388932 ]
+    },
+    "properties": {
+    "Venue Name":"Food Universe",
+    "Type of Location":"Retail Venue Cluster",
+    "Address":"148 E 170th St, Bronx, NY 10452",
+    "Zipcode":10452,
+    "Venue Description":"Busiest times are 12-6pm. It is privately owned. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9151773,40.8211535 ]
+    },
+    "properties": {
+    "Venue Name":"Food Universe",
+    "Type of Location":"Retail",
+    "Address":"760 Melrose Ave, Bronx, NY 10451",
+    "Zipcode":10451,
+    "Venue Description":"Busiest times are 12-2pm and 4-7pm. Mornings are mainly people over 60, in the afternoons it is an even mix of ages/genders. It is privately owned. Very large sidewalk would be a safe and good place to set up a tent/recruitment station. Manager declined giving contact information."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9376162,40.8008608 ]
+    },
+    "properties": {
+    "Venue Name":"Foodtown of East Harlem ",
+    "Type of Location":"Retail",
+    "Address":"2211 3rd Ave New York, NY 10035 ",
+    "Zipcode":10035,
+    "Venue Description":"Very busy, right in front of the 101 and the 103, the sidewalk is wide with ample space to set up recruitment station."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9573358,40.8123567 ]
+    },
+    "properties": {
+    "Venue Name":"Foodtown of Morningside Heights",
+    "Type of Location":"Retail",
+    "Address":"1316 Amsterdam Ave., New York, NY, 10027",
+    "Zipcode":10027,
+    "Venue Description":"Serve approx. 1000 people per day. Steady flow of traffic outside the venue (there are 4 main stores on this block so the foot traffic outside is steady). Wide sidewalk, so there is enough room for a recruitment station. The \"adolescents\" are mostly 21-25 year olds. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9161396,40.8168355 ]
+    },
+    "properties": {
+    "Venue Name":"Footlocker",
+    "Type of Location":"Retail",
+    "Address":"2886 Third Ave, Bronx, NY 10455",
+    "Zipcode":10455,
+    "Venue Description":"Busiest hours are 12-2pm and 4-6pm. Could not give an estimate of total people in store due to limited capacity for COVID. Very busy street (Third Ave) especially in the evening; there is a large cluster of stores, but not a lot of sidewalk space. Manager said that setting up anything outside the store would have to go through corporate. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9131239,40.819721 ]
+    },
+    "properties": {
+    "Venue Name":"Forman Mills",
+    "Type of Location":"Retail Venue Cluster",
+    "Address":"3036 Third Ave, Bronx, NY 10455",
+    "Zipcode":10455,
+    "Venue Description":"Part of a retail cluster (Third Ave). Two entrances with sidewalk space. Large department store. Mix of male and female, but mainly adults."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9237171,40.824147 ]
+    },
+    "properties": {
+    "Venue Name":"Franz Sigel Park",
+    "Type of Location":"Recreational",
+    "Address":"774 Grand Concourse, Bronx, NY 10451",
+    "Zipcode":10451,
+    "Venue Description":"Large park. Many people walking through, running, or sitting on benches. Large space in the middle of the park where a tent/recruitment station could be set up."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9490775,40.7970983 ]
+    },
+    "properties": {
+    "Venue Name":"Frawley Circle ",
+    "Type of Location":"Other",
+    "Address":"Duke Ellington and 5th Ave ",
+    "Zipcode":10026,
+    "Venue Description":"Though this is a traffic circle, there is a seating area that some people were using. The main people observed were joggers running down 5th Ave on the CPN side of the park. The seating area within the traffic circle  is viable for a recruitment station. Also, there are a few bus stops that offload a lot of passengers. \n\n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9386045,40.8173232 ]
+    },
+    "properties": {
+    "Venue Name":"Fred Samuel Playground",
+    "Type of Location":"Recreational",
+    "Address":"Lenox Ave. & W 140th St., New York, NY, 10030",
+    "Zipcode":10030,
+    "Venue Description":"Busy foot traffic inside and outside of the park. Lots of space both inside the park and outside the entrance on Lenox Ave for a recruitment station. Started to get even busier as I was finshing my observation/leaving around 10:30. Several people were there for prolonged periods of time (playing basketball, reading, sitting on benches, playing board games. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9093901,40.8289604 ]
+    },
+    "properties": {
+    "Venue Name":"Gold Coast Supermarket",
+    "Type of Location":"Retail",
+    "Address":"3400 Park Ave",
+    "Zipcode":10456,
+    "Venue Description":"- I tried to speak with management, but was told to come back tomorrow, so I conducted an observation in lieu of an owner interview\n- wholesale supermarket that specializes in West African fare\n- caters to an international customer base: I overheard many distinct languages, none of which I was able to recognize\n- the supermarket's sizable parking lot would provide ample space for a recruitment setup"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9371302,40.8013844 ]
+    },
+    "properties": {
+    "Venue Name":"Goodwill",
+    "Type of Location":"Retail",
+    "Address":"2231 3rd Ave New York, NY10035",
+    "Zipcode":10035,
+    "Venue Description":"Store busy however, it's located on a street with a lot of foot traffic. call corporate to explain more about the study."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9041045,40.8356524 ]
+    },
+    "properties": {
+    "Venue Name":"Gouverneur Playground",
+    "Type of Location":"Recreational",
+    "Address":"1420 Washington Ave, Bronx, NY 10456",
+    "Zipcode":10456,
+    "Venue Description":"Park with playground, basketball courts, many benches, and a public restroom. People were either sitting on the benches or passing through the park. Open space in the middle or either entrance would be good spaces for recruitment stations."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9280578,40.8101924 ]
+    },
+    "properties": {
+    "Venue Name":"Graham Triangle",
+    "Type of Location":"Recreational",
+    "Address":"270 E 137th",
+    "Zipcode":10454,
+    "Venue Description":"- the Graham triangle bisects Lincoln Ave and Third Ave; for this reason, it is a major bus corridor, serviced by Bx21, Bx32, Bx1, and Bx99. Often, buses would stall for ~4-5 mins to accumulate riders before leaving\n- not many lingered on this rainy day, but the Graham Triangle was still a high-trafficked site, with many boarding and departing buses and some renting Citi Bikes\n- a large paved space at the northern tip of the triangle could host a recruitment tent"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9272793,40.8192753 ]
+    },
+    "properties": {
+    "Venue Name":"Haagen-Dazs",
+    "Type of Location":"Restaurant",
+    "Address":"573 Grand Councourse",
+    "Zipcode":10451,
+    "Venue Description":"- I spoke to an employee, Shahroz, who was the only one staffing the store at the time – he estimated that the store recieved 110 customers a day, with an average age range of 15-50, and a majority-female gender distribution\n- busy hours stretched from 1 to 9 PM; in the summer, lines congregate as early as 12:30PM, a half hour before the store's opening\n- Shahroz estimated the shop's clientele to be majority-black (~70%) and the remainder Latinx"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96987,40.794736 ]
+    },
+    "properties": {
+    "Venue Name":"Happy Warrior Playground ",
+    "Type of Location":"Recreational",
+    "Address":" Amsterdam Ave &, W 97th St, New York, NY 10025",
+    "Zipcode":10025,
+    "Venue Description":"There is heavy foot traffic with a lot of basketball courts and open space. This is an ideal space for recruitment "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9504248,40.8117012 ]
+    },
+    "properties": {
+    "Venue Name":"Harlem BBQ ",
+    "Type of Location":"Restaurant",
+    "Address":"2367 Frederick Douglass BLVD NYew York, NY12007",
+    "Zipcode":10027,
+    "Venue Description":"Busiest times usually start around 19:00 according to Sean; enough space to set up recruitment station."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9479311,40.8102763 ]
+    },
+    "properties": {
+    "Venue Name":"Harlem Phoenix Suites ",
+    "Type of Location":"Street Venue Cluster",
+    "Address":"125 2130 Adam Clayton Blvd ",
+    "Zipcode":10026,
+    "Venue Description":"They are willing to help and there is substantial sidewalk space on a busy street of mainly adults."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9463378,40.80711 ]
+    },
+    "properties": {
+    "Venue Name":"Harlem Shake ",
+    "Type of Location":"Restaurant",
+    "Address":"100 W 124th St, New York, NY 10027",
+    "Zipcode":10027,
+    "Venue Description":"About 500 customers daily, mainly in their mid-20's busy times 1:30PM, 7PM, 9PM. Willing to help, outdoor dining may congest space a little as it is on the sidewalk. Store is on a corner however but somethig can be figured out. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.939334,40.8143519 ]
+    },
+    "properties": {
+    "Venue Name":"Howard Bennet Playground ",
+    "Type of Location":"Recreational",
+    "Address":"32 W 136th St, New York, NY 10037",
+    "Zipcode":10037,
+    "Venue Description":"Busy, lots of space between the jungle gyms, tennis, and basketball courts. While I was in the park, I counted about 50 passersby. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9078284,40.8153257 ]
+    },
+    "properties": {
+    "Venue Name":"Hunts Point Multi-Service Center",
+    "Type of Location":"Other",
+    "Address":"630 Jackson Ave, The Bronx, NY 10455, United States",
+    "Zipcode":10455,
+    "Venue Description":"- this center for social services houses Bronx Works, an employment agency, Seps, a homeless service, and a division of the department of social services\n- the space features a large courtyard with a playground, as well as a large plaza outside that would be suitable for a recruitment tent\n- my tallies include both workers and constituents"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9441443,40.8152405 ]
+    },
+    "properties": {
+    "Venue Name":"International House of Pancakes",
+    "Type of Location":"Restaurant",
+    "Address":"2294 Adam Clayton Powell Jr. Blvd., New York, NY, 10030",
+    "Zipcode":10030,
+    "Venue Description":"Serve approximately 50 people per day. Mentioned that Saturdays and Sundays are the busiest. Enough room outside the venue to set up a recruitment station."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9517529,40.8195852 ]
+    },
+    "properties": {
+    "Venue Name":"Jacob H Shiff Playground",
+    "Type of Location":"Recreational",
+    "Address":"Amsterdam Ave. &, W 136th St, New York, NY 10031",
+    "Zipcode":10031,
+    "Venue Description":"There was an organized soccer game that had about 150 people in attendance (players and spectators) in a different area of the park 75% Latinx men; 15% black men); people sitting on benches . A lot of space for a recruitment station."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9513093,40.8226627 ]
+    },
+    "properties": {
+    "Venue Name":"Johnny Hartman Plaza",
+    "Type of Location":"Recreational",
+    "Address":"Hamilton Place between W 143rd St. & W 144th St.",
+    "Zipcode":10031,
+    "Venue Description":"Busy park area; lots of people sitting at different benches and tables set up in the area. Also, lots of people were eating outside a restaurant at 142 Hamilton Place. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.929691,40.827516 ]
+    },
+    "properties": {
+    "Venue Name":"Joseph Yancey Track and Field",
+    "Type of Location":"Recreational",
+    "Address":"MAcombs Dam Park 30 E 161st St, Bronx, NY 10451",
+    "Zipcode":10451,
+    "Venue Description":"Track and soccer field. People running and playing soccer; large group of people out early. Diverse age range, mainly African-American. Large space for a tent/recruitment station."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9231688,40.8292302 ]
+    },
+    "properties": {
+    "Venue Name":"Joyce Kilmer Park - Heinrich Heine Fountain",
+    "Type of Location":"Recreational",
+    "Address":"955 Walton Ave",
+    "Zipcode":10452,
+    "Venue Description":"- because park is 4 blocks (~1000 feet) long, I conducted two observations, B_10452_MW_01 and B_10452_MW_10, at its south and north end respectively\n- frequented by joggers, dog-walkers, and families with young children\n- few sat on the benches surrounding the pathways and fountain; instead, most parkgoers were on the move, exercising, commuting, or walking"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9039243,40.8338446 ]
+    },
+    "properties": {
+    "Venue Name":"Kappa Middle School",
+    "Type of Location":"School",
+    "Address":"3630 Third Ave, Bronx, NY 10456",
+    "Zipcode":10456,
+    "Venue Description":"Students and teachers were entering the school at this time. Large open space near the front door where you could set up a tent/recruitment station."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9439039,40.8196777 ]
+    },
+    "properties": {
+    "Venue Name":"Keyfood",
+    "Type of Location":"Retail",
+    "Address":"2630 Frederick Douglass Blvd New York, NY",
+    "Zipcode":10030,
+    "Venue Description":"Manager very happy to help as he says that their biggest issue is trying to get people to wear masks in the store and that something like this could help spread awarness. Good space outside for recruitment station."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9696417,40.7944413 ]
+    },
+    "properties": {
+    "Venue Name":"Keyfood ",
+    "Type of Location":"Retail",
+    "Address":"755 Amsterdam Ave New York, NY 10025 ",
+    "Zipcode":10025,
+    "Venue Description":"There are lots of apartment buildings around that feed the foot traffic.  Venue is on a corner with lots of space for a recruitment station."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9504813,40.8026148 ]
+    },
+    "properties": {
+    "Venue Name":"Kilamanjaro Fashions ",
+    "Type of Location":"Retail Venue Cluster",
+    "Address":"117 W 116 St New York, NY 12006",
+    "Zipcode":10026,
+    "Venue Description":"Willing to help 100%; store empty but note that W 116st is very busy, honestly any corner on this long block would be good for recruiting. It's very crowded, but people keep their distance. While there was no one in the store they do get customers during the week and day time. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9227408,40.817762 ]
+    },
+    "properties": {
+    "Venue Name":"Kim's Fish Market",
+    "Type of Location":"Retail",
+    "Address":"555 Morris Ave",
+    "Zipcode":10451,
+    "Venue Description":"- Ezekiel estimated that he gets ~100 daily customers, all of whom are 25+, and many of whom are seniors – he does not get many, if any, adolescents: \"young people don't buy fish\"\n- Ezekial was uncomfortable making racial assumptions about his clientele, but said more women patronized his store than men\n- Kim's Fish Market has a covered plaza directly outside its doors, where recruitment could potentially take place\n- I could not hand Ezekial the NIH letter, as he was handling fish at the time of the interview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9318948,40.8135922 ]
+    },
+    "properties": {
+    "Venue Name":"La Finca del Sur Community Garden",
+    "Type of Location":"Recreational",
+    "Address":"110 E 138th St",
+    "Zipcode":10451,
+    "Venue Description":"- construction workers sit outside the gate of this community garden on their lunch break while groundskeepers (unclear whether volunteers or employees) tend the garden\n- may be busier in better weather; numbers may be suppressed due to impending rainstorm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.940761,40.812788 ]
+    },
+    "properties": {
+    "Venue Name":"Lenox Place Terrace & W 135th St. ",
+    "Type of Location":"Street Venue Cluster",
+    "Address":"W 135th St. (south side of the street) between Lenox Place Terrace & 5th Avenue ",
+    "Zipcode":10037,
+    "Venue Description":"This stretch of W 135th St was consistently very busy over the 30 minute observation period. There was a lot of foot traffic to one store (Fine Fare Supermarkets) but there was also a lot of traffic just on the street. Many individuals were 60+ in age. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9247762,40.8160855 ]
+    },
+    "properties": {
+    "Venue Name":"Lincoln Medical Center",
+    "Type of Location":"Other",
+    "Address":"234 E 149th",
+    "Zipcode":10451,
+    "Venue Description":"- I was stationed outside the hospital's main entrance, not its emergency room entrance, which is situated on the building's west side\n- many patients arrived in taxis and rideshare services; a few cars were stalled outside, awaiting patients for pickup\n- a large plaza offers ample space for recruitment tents, but most people seemed to be in a rush, and it is unclear how hard engaging such a time-pressed population would be "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9242116,40.8272944 ]
+    },
+    "properties": {
+    "Venue Name":"Lou Gehrig Plaza",
+    "Type of Location":"Recreational",
+    "Address":"100-144 E 161st",
+    "Zipcode":10452,
+    "Venue Description":"- this plaza is a large, tiered, concrete structure in the median of 161st street\n- some (~15) congregated on planters and ledges, but the space seemed largely transitory, with people crossing the plaza as they moved between park and retail cluster. Ample space for a recruitment tent setup"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9250834,40.8078055 ]
+    },
+    "properties": {
+    "Venue Name":"Lozada Playground",
+    "Type of Location":"Recreational",
+    "Address":"361 E 135th",
+    "Zipcode":10454,
+    "Venue Description":"- adjacent to Jonathan D Hyatt Elementary, which holds recess in Lozada Playground\n- has 3 checkers tables, which may be used by 60+ demo in warmer weather\n- located at the foot of the J.P. Mitchel homes, whose residents may take their children to play in the Lozada Playground"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9288822,40.8291147 ]
+    },
+    "properties": {
+    "Venue Name":"Macombs Dam Park",
+    "Type of Location":"Recreational",
+    "Address":"161 Macombs Dam Bridge",
+    "Zipcode":10452,
+    "Venue Description":"- *because the Macombs Dam Park spans two zip codes (10451 & 10452), I accidentally repeated a venue that Samantha observed on Friday (B_10451_SP_01)\n- On the park's lower level, youth groups played soccer, softball, and boxed; on the park's upper level, an older crowd used exercise equipment and ran laps at the Joseph Yancey track field\n- the park hosted an international community: I overheard Arabic, Spanish, and an assortment of other languages that I couldn't recognize\n- there is a large parking structure under the track field – though it services Yankee Stadium in baseball season, it might provide space for a recruitment van in the coming months"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9442007,40.8096568 ]
+    },
+    "properties": {
+    "Venue Name":"Malcolm X Blvd. & W 134th St.",
+    "Type of Location":"Retail Venue Cluster",
+    "Address":"Malcolm X Blvd. between W 133rd St. & W 135th St. (observation done on the east side of Malcolm X)",
+    "Zipcode":10030,
+    "Venue Description":"Foot traffic was heavy and consistent over the 30 minute observation period. Enough room on the sidewalk to set up a recruitment station. Lots of people were hanging around the area for prolonged time periods."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9508381,40.8111432 ]
+    },
+    "properties": {
+    "Venue Name":"Manna's Restaurant ",
+    "Type of Location":"Restaurant",
+    "Address":"2353 Frederick Douglas BLVD New York, NY 10027 ",
+    "Zipcode":10027,
+    "Venue Description":"Average of 300 customers a day; mostly black, equal amount of men and women according to the owner. Very busy area; though Ian was not that happy about the idea of a stand being outside of the store, he is willing to be contacted to be provided with more information."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9452757,40.8051647 ]
+    },
+    "properties": {
+    "Venue Name":"Marcus Garvey Park",
+    "Type of Location":"Recreational",
+    "Address":"6316 Mt. Morris Park W., New York, NY, 10027",
+    "Zipcode":10027,
+    "Venue Description":"Mostly adults (over 25) and 60+, but among this population it was quite varied (different racial backgrounds and people doing lots of different activities in the park - some were working out, some sitting on benches, some walking dogs, etc.). Consistently busy over the 30 minute observation period - no lulls. Definitely enough space to set up a recruitment station. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9301956,40.8201728 ]
+    },
+    "properties": {
+    "Venue Name":"Marisco Centro",
+    "Type of Location":"Retail",
+    "Address":"610 Exterior St",
+    "Zipcode":10451,
+    "Venue Description":"- I spoke to Marisco Centro's manager, Miguel, with translation assistance from an employee, Kimberly Locas, who estimated that they get ~30 daily in-person customers; the bulk of their business is done via delivery\n- the age of a Marisco Centro customer ranges between 18 and 60, with an even split amongst men and women, and a mix of Black, White, and Latinx customers – Miguel says that many families patronize their restaurant"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.950487,40.8000282 ]
+    },
+    "properties": {
+    "Venue Name":"Martin Luther king Jr. Playground ",
+    "Type of Location":"Recreational",
+    "Address":"62 Malcolm X Blvd, New York, NY 10026",
+    "Zipcode":10026,
+    "Venue Description":"This venue is in front of a housing area; basketball courts empty at this time; tennis courts utilized; families/children of various ages; lots of room to set up a recruitment station. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9235362,40.8379912 ]
+    },
+    "properties": {
+    "Venue Name":"Martin Luther King Triangle",
+    "Type of Location":"Recreational",
+    "Address":"78 W 168th",
+    "Zipcode":10452,
+    "Venue Description":"- Seniors congregated on the park's benches and at the steps of the Sacred Heart church; others simply passed through\n- the park is surrounded by a smattering of retail (pharmacy, deli, and barbershop), but is largely residential"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.941648,40.8122071 ]
+    },
+    "properties": {
+    "Venue Name":"McDonald's",
+    "Type of Location":"Restaurant",
+    "Address":"444 Malcolm X Blvd., New York, NY, 10030",
+    "Zipcode":10030,
+    "Venue Description":"Lots of foot traffic inside the venue and outside the venue (on Malcolm X Blvd.). Definitely enough room to set up a recruitment station outside."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9370944,40.8045365 ]
+    },
+    "properties": {
+    "Venue Name":"McDonald's",
+    "Type of Location":"Restaurant",
+    "Address":"145 E 125th St., New York, NY, 10035",
+    "Zipcode":10035,
+    "Venue Description":"Busy inside and outside the venue (near a very busy intersection). "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9507462,40.8267802 ]
+    },
+    "properties": {
+    "Venue Name":"McDonald's",
+    "Type of Location":"Restaurant",
+    "Address":"3543-49 Broadway, New York, NY, 10031",
+    "Zipcode":10031,
+    "Venue Description":"Serve approximately 400 customers per day. Lots of foot traffic inside and outside the store. Lots of room on the street to set up a recruitment station."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9155447,40.8397027 ]
+    },
+    "properties": {
+    "Venue Name":"McDonalds",
+    "Type of Location":"Retail Venue Cluster",
+    "Address":"101 E 170th St, Bronx, NY 10452",
+    "Zipcode":10452,
+    "Venue Description":"Busiest in the morning and afternoon. Privately owned. Manager declined sharing contact information. On a busy road and in a retail cluster; there would be a lot of foot traffic."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8934216,40.8467087 ]
+    },
+    "properties": {
+    "Venue Name":"McDonalds",
+    "Type of Location":"Restaurant",
+    "Address":"599 E Tremont Ave, Bronx, NY 10457",
+    "Zipcode":10457,
+    "Venue Description":"Busiest times are 9am-1pm and 4-6pm. On a busy corner on Tremont Ave so there is a lot of foot traffic. Not privately owned. Manager declined giving contact information."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9270011,40.8198415 ]
+    },
+    "properties": {
+    "Venue Name":"McDonalds",
+    "Type of Location":"Restaurant",
+    "Address":"597 Grand Concourse, Bronx, NY 10451",
+    "Zipcode":10451,
+    "Venue Description":"Busiest times are 12-3pm. It is privately owned. Manager said the customers are evenly mixed amongst age/gender/race. There is a larger parking lot that would allow for a safe space to set up a recruitment station."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9251551,40.82802 ]
+    },
+    "properties": {
+    "Venue Name":"McDonalds",
+    "Type of Location":"Restaurant",
+    "Address":"67 E 161st",
+    "Zipcode":10452,
+    "Venue Description":"- although the manager was not in, I spoke to an employee, Bolaji, and left the NIH support letter for management\n- Bolaji estimated that they saw an average of 2,000 customers a day, but their customer count can decrease dramatically with colder/rainier weather\n- this McDonald's is mostly patronized by those in the 15-30 age range, and has a largely female clientele – their customers are overwhelmingly black and Latinx, with a slightly greater proportion of the latter\n- their busiest hours are the lunch rush (11a-2p) and their busiest day is Monday\n- this McDonald's, at the foor of the Yankee Stadium Station (4, B, and D trains), has an extensive outdoor patio (~2,500 sq ft), which could be used for recruitment"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9256596,40.8063186 ]
+    },
+    "properties": {
+    "Venue Name":"McDonalds Playplace",
+    "Type of Location":"Restaurant",
+    "Address":"85 Bruckner Blvd",
+    "Zipcode":10454,
+    "Venue Description":"- because it has a play structure, this McDonalds has always attracted many families – but with COVID, oftentimes, the family waits outside and a parent goes in to order\n- next to an I-87 exit ramp, gets a fair amount of clientele from outside the neighborhood\n- patrons are predominantly Mexican, sometimes African\n- busy periods: between noon & 6pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9134289,40.822871 ]
+    },
+    "properties": {
+    "Venue Name":"Melrose Commons Park",
+    "Type of Location":"Recreational",
+    "Address":"423 E 159th St, Bronx, NY 10451",
+    "Zipcode":10451,
+    "Venue Description":"Park with playgrounds, public restrooms, large grass area. Grass area could be a good space to set up tent/recruitment station. Mainly women and young kids."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9180947,40.819221 ]
+    },
+    "properties": {
+    "Venue Name":"Melrose Pharmacy",
+    "Type of Location":"Retail",
+    "Address":"666 Courtlandt Ave, Bronx, NY 10451",
+    "Zipcode":10451,
+    "Venue Description":"Busiest times are 1-6pm. Julio said that customers are mainly people between the ages of 45 - 75. Recently bought by Walgreens. Best time to reach Julio is in the afternoon. Mainly Latinx customers."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9264755,40.839412 ]
+    },
+    "properties": {
+    "Venue Name":"Merriam Playground",
+    "Type of Location":"Recreational",
+    "Address":"1261 Merriam Ave, Bronx, NY 10452",
+    "Zipcode":10452,
+    "Venue Description":"Park and playground with two levels. Younger kids on upper level with playground; adults on lower level with squash courts and basketball courts. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9096197,40.831575 ]
+    },
+    "properties": {
+    "Venue Name":"Met Food Markets",
+    "Type of Location":"Retail Venue Cluster",
+    "Address":"1188 Webster Ave, Bronx, NY 10456",
+    "Zipcode":10456,
+    "Venue Description":"Busiest times are 10am-5pm. It is privately owned. Large sidewalk and places in front to park a van. Part of the Webster Ave retail cluster."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9083761,40.8155834 ]
+    },
+    "properties": {
+    "Venue Name":"Met Foodmarkets",
+    "Type of Location":"Retail",
+    "Address":"649 Jackson Ave",
+    "Zipcode":10455,
+    "Venue Description":"- the manager was forthcoming; said the store had an average of 940 daily customers, with an age range of 22-67, that skewed older; she estimated a 50-50 gender distribution, as well as an even split between Black and Latinx customers\n- outside the store, there was a bottle deposit line ~6 long"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9065102,40.8380227 ]
+    },
+    "properties": {
+    "Venue Name":"Michel Triangle",
+    "Type of Location":"Recreational",
+    "Address":"1465 Webster Ave",
+    "Zipcode":10457,
+    "Venue Description":"- Webster Ave is dominated by mechanics, oil change, and auto body shops – workers traverse Michel Triangle as they move between work and the Claremont Ave commercial corridor, someimes stopping on benches in between\n- serviced by the Bx41 and Bx11 buses, with consistent lines about ~5 long for each\n- workers skewed male, while bus-riders skewed female"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9301899,40.8205177 ]
+    },
+    "properties": {
+    "Venue Name":"Mill Pond Park",
+    "Type of Location":"Recreational",
+    "Address":"590 Exterior St",
+    "Zipcode":10451,
+    "Venue Description":"- though its outdoor grounds were largely vacant on this rainy Wednesday, I observed a decent crowd entering and exiting the park's covered tennis courts\n- due to its proximity to Manhattan, those who frequent the tennis courts and adjacent clubhouse may not be representative of the surrounding neighborhoods, as reflected in the demographics I observed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.900168,40.8478187 ]
+    },
+    "properties": {
+    "Venue Name":"Modern Fresh Market",
+    "Type of Location":"Retail",
+    "Address":"411 E Tremont Ave, Bronx, NY 10457",
+    "Zipcode":10457,
+    "Venue Description":"Busiest at 11am-1pm and 3-6pm. Privately owned. Very large sidewalk for recruitment station. On a busy street (Tremont Ave)."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9364674,40.8115433 ]
+    },
+    "properties": {
+    "Venue Name":"Moore Playground",
+    "Type of Location":"Recreational",
+    "Address":"Madison Ave., New York, NY, 10037",
+    "Zipcode":10037,
+    "Venue Description":"Busy inside the park and outside on Madison Ave. Got busier around 11am (was ~25% busier driving the latter half of my observation). Enough room to set up a recruitment station. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9562843,40.8081698 ]
+    },
+    "properties": {
+    "Venue Name":"Morningside Ave. & W 118th St.",
+    "Type of Location":"Street Venue Cluster",
+    "Address":"Morningside Ave. (East side of the street) between W 117th St. and W 119th St., New York, NY, 10026",
+    "Zipcode":10026,
+    "Venue Description":"This area of the street was very busy; there were lots of children heading to school with their parents/caretakers, and a number of people walking by to get to Morningside Park. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9596149,40.801218 ]
+    },
+    "properties": {
+    "Venue Name":"Morningside Park - Manhattan Avenue & W 110th St.",
+    "Type of Location":"Recreational",
+    "Address":"Manhattan Avenue & W 110th St., New York, NY, 10026",
+    "Zipcode":10026,
+    "Venue Description":"Consistently busy over the 30 minute observation period. Lots of room for a recruitment station. Predominantly adults. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9645909,40.8076824 ]
+    },
+    "properties": {
+    "Venue Name":"Morton Williams Supermarket",
+    "Type of Location":"Retail",
+    "Address":"2941 Broadway, New York, NY 10027",
+    "Zipcode":10027,
+    "Venue Description":"Said they serve approximately 900 customers per day. Busy inside and outside the venue even though it was raining. Enough room to set up research materials and recruit outside the venue."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9093529,40.843195 ]
+    },
+    "properties": {
+    "Venue Name":"Mount Eden Malls",
+    "Type of Location":"Recreational",
+    "Address":"1648 Morris Ave",
+    "Zipcode":10457,
+    "Venue Description":"- the Mount Edens Mall is a stretch of green space at the northern edge of Claremont Park; it connects the major pedestrian corridors of Webster Avenue and the Grand Concourse\n-During observation there was A farmers market at the intersection of Morris & Mt Edens Ave, which attracted a crowd spanning every age group. Large paved spaces suitable for recruitment tents/stations."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9254652,40.8331028 ]
+    },
+    "properties": {
+    "Venue Name":"Mullaly Park",
+    "Type of Location":"Recreational",
+    "Address":"1055 Jerome Ave",
+    "Zipcode":10452,
+    "Venue Description":"- on Sunday morning, Mullaly Park was dominated by youth sports matches (kids and parents)\n- the western fields hosted a soccer and lacrosse match; both boys and girls played in the soccer match, while the lacrosse game was exclusive for girls, accounting for the gender disparity among those <13\n- the park is located in a predominantly residential area, encircled only by quiet, one-way streets; parkgoers seemed to come and go almost exclusively on foot"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9552005,40.8040529 ]
+    },
+    "properties": {
+    "Venue Name":"New Harlem Halal Meat",
+    "Type of Location":"Retail",
+    "Address":"2142 Frederick Douglass Blvd., New York, NY, 10026",
+    "Zipcode":10026,
+    "Venue Description":"Receive roughly 40-50 customers per day - mostly African. Lots of space on the street for a recruitment station; observed pretty steady flow of traffic outside the venue. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8939167,40.850471 ]
+    },
+    "properties": {
+    "Venue Name":"New Palace Paint & Home Center",
+    "Type of Location":"Retail",
+    "Address":"534 E 180th St, Bronx, NY 10457",
+    "Zipcode":10457,
+    "Venue Description":"Busiest times are 6-9am and 2-5pm. Privately owned. Large sidewalk in front for recruitment station. Manager said customers are mainly male contractors. Manager declined giving contact information."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9532259,40.8029237 ]
+    },
+    "properties": {
+    "Venue Name":"New Way Gourmet Deli",
+    "Type of Location":"Retail",
+    "Address":"1902 Adam Clayton Powell Jr. Blvd., New York, NY, 10026",
+    "Zipcode":10026,
+    "Venue Description":"Receive roughly 60-70 customers per day. Store was located on a busy street and was heavily trafficked when I was there. Lots of space outside for a recruitment station. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9406434,40.8188666 ]
+    },
+    "properties": {
+    "Venue Name":"NHS Hardware",
+    "Type of Location":"Retail",
+    "Address":"2413 Adam Clayton Powell BLVD New York, NY 10030",
+    "Zipcode":10030,
+    "Venue Description":"Store is on a corner with a lot of sidewalk space; a lot of people standing around. Noah is happy to have a recruitment station  set up outside the store. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9392692,40.8098605 ]
+    },
+    "properties": {
+    "Venue Name":"P.S. 133 Fred R. Moore Academy",
+    "Type of Location":"School",
+    "Address":"2121 5th Avenue, New York, NY, 10037",
+    "Zipcode":10037,
+    "Venue Description":"Busiest between 8:30 and 8:40 and then again between 8:55 and 9:00. Enough space to set up a recruitment station. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9157284,40.8403454 ]
+    },
+    "properties": {
+    "Venue Name":"P.S. 64 (park)",
+    "Type of Location":"Recreational",
+    "Address":"1425 Walton Ave, Bronx, NY 10452",
+    "Zipcode":10452,
+    "Venue Description":"Small park with playgrounds, basketball courts. Mainly African-American men."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9102567,40.8129111 ]
+    },
+    "properties": {
+    "Venue Name":"Park on 149th St",
+    "Type of Location":"Recreational",
+    "Address":"694 E 149th St, Bronx, NY 10455",
+    "Zipcode":10455,
+    "Venue Description":"Playground, basketball court, many benches. Kids on the playground, group of adolescent boys playing basketball, larger group of elderly people sitting at the benches/playing chess. In between two apartment buildings, next to the NYC Housing Authority. Some people stayed for a long time, some used the park to pass through. I walked past this park later in the day and there were lights on and a large group of people still there, making it a potentially good spot during the evening as well."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9216761,40.8152774 ]
+    },
+    "properties": {
+    "Venue Name":"Patterson Playground",
+    "Type of Location":"Recreational",
+    "Address":"448 College Ave #5709, The Bronx, NY 10451, United States",
+    "Zipcode":10451,
+    "Venue Description":"- crowds congregated at the park's northeast corner, with an adolescent group gathering in a row of benches while an older group played cards on a folding table; homeless persons congregated on the benches paralleling College Ave\n- the crowd appeared to draw heavily from surrounding NYCHA housing – surrounding apartment towers feed directly into the park\n- the park's population was largely male across all age groups"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9168307,40.8098258 ]
+    },
+    "properties": {
+    "Venue Name":"People's Park",
+    "Type of Location":"Recreational",
+    "Address":"528 E 142nd St, Bronx, NY 10454",
+    "Zipcode":10454,
+    "Venue Description":"Multiple playgrounds, many benches; basketball court and soccer field. Adults came in and out, adolescents and children stayed longer. There is a public restroom inside the park."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9169563,40.8072264 ]
+    },
+    "properties": {
+    "Venue Name":"Pioneer Supermarket",
+    "Type of Location":"Retail",
+    "Address":"256 St Anns Ave, Bronx, NY 10454",
+    "Zipcode":10454,
+    "Venue Description":"Busiest times are 10am-1pm and 3pm-7pm. In the morning it is mainly Latinx (Dominican, Puerto Rican, and Mexican). In afternoon there is a higher percentage of Black shoppers (about 30%) and white shoppers (about 5%). There are also more young people in the afternoon, but mainly it is adults shopping."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9167389,40.8176762 ]
+    },
+    "properties": {
+    "Venue Name":"Pioneer Supermarket",
+    "Type of Location":"Retail",
+    "Address":"616 Melrose Ave, Bronx, NY 10455",
+    "Zipcode":10455,
+    "Venue Description":"Busiest times are 9am-12pm and 5pm-8pm. There is a lower number of people in the store due to lower capacity for COVID. It is privately owned. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9463647,40.8114858 ]
+    },
+    "properties": {
+    "Venue Name":"Playground ",
+    "Type of Location":"Recreational",
+    "Address":"129th and Adam Clayton BLVD New York, NY 10027",
+    "Zipcode":10027,
+    "Venue Description":"A lot of space in and around the playground. Right in front of public housing."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9394987,40.8102071 ]
+    },
+    "properties": {
+    "Venue Name":"Private park property at E 131st St. & 5th Ave. ",
+    "Type of Location":"Recreational",
+    "Address":"NE corner of E 131st St. & 5th Ave., New York, NY, 10037",
+    "Zipcode":10037,
+    "Venue Description":"There was a spin class going on in the park - all individuals participating were adults (mostly older adults - nearing 60+ or 60+ in age). From afar, I saw other people hanging around the park later in the day (around 9:30am). "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9015765,40.8192996 ]
+    },
+    "properties": {
+    "Venue Name":"Prospect Ave Station",
+    "Type of Location":"MTA",
+    "Address":"786 Prospect Ave",
+    "Zipcode":10455,
+    "Venue Description":"- the area around this station had less street life than other areas, serving largely as a transitory space\n- this station was surrounded by a diverse assortment of retail establishments: a dollar store, bodega, laundromat, food truck, nail salon, restuarant, and fruit stand"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9178871,40.8091669 ]
+    },
+    "properties": {
+    "Venue Name":"Public School 30",
+    "Type of Location":"School",
+    "Address":"510 E 141st St, Bronx, NY 10454",
+    "Zipcode":10454,
+    "Venue Description":"Seems that 1:50-2:15pm is pick up time for these schools. Adults line up by two entrances to the school to pick up their kids. There was an even mix of male and female adults. Street venue that covers three schools: 1 middle school and 2 elementary schools. Could set up recruitment stations outside each entrance when the parents are waiting."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9226725,40.8051193 ]
+    },
+    "properties": {
+    "Venue Name":"Pulaski Park",
+    "Type of Location":"Recreational",
+    "Address":"107 Bruckner Blvd",
+    "Zipcode":10454,
+    "Venue Description":"- basketball courts under construction, taking 2/3 of the park out of commission – might account for relatively few parkgoers\n- excercise equipment seems to attract mainly young adults\n- in a major transit corridor, with Willis Ave bridge to its west and I-87 to its north"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9571412,40.8049741 ]
+    },
+    "properties": {
+    "Venue Name":"Ralph & Nash - Supermarket & Deli",
+    "Type of Location":"Retail",
+    "Address":"352 W 116th St., New York, NY, 10026",
+    "Zipcode":10026,
+    "Venue Description":"Receive roughly 50-70 customers per day. Steady flow of traffic outside the venue. Sufficient room for researchers to set up their materials outside the venue. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9136373,40.8002825 ]
+    },
+    "properties": {
+    "Venue Name":"Randall's Island Connector",
+    "Type of Location":"Recreational",
+    "Address":"791 E 132nd",
+    "Zipcode":10454,
+    "Venue Description":"- this railway-turned-bike land connects the Mott Haven community and Randall's Island Park; unlike bridges (Robert F. Kennedy Bridge and Harlem River Lift Span), this path is at street grade, making it much less physically taxing to traverse\n- I observed skateboarders (~3), pedestrians (~8), and cyclists (~5), who often were athletes in full bike gear\n- due to steady rainfall, most parkgoers were on the move; few stopped or lingered "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9163714,40.8066763 ]
+    },
+    "properties": {
+    "Venue Name":"Regines",
+    "Type of Location":"Retail",
+    "Address":"589 E 138th St, Bronx, NY 10454",
+    "Zipcode":10454,
+    "Venue Description":"Busiest in the afternoon. Mix of ages, but mainly female because it is a female clothing store. There is a large sidewalk in front of the store and it's on a busy road (138th st), so there would be a lot of foot traffic."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9426334,40.8121132 ]
+    },
+    "properties": {
+    "Venue Name":"Revolution Books ",
+    "Type of Location":"Retail",
+    "Address":"437 Malcolm X BLVD New York, NY",
+    "Zipcode":10037,
+    "Venue Description":"Open Tuesdays, Thursdays, and both weekend days from 2-7 but someone is always in the shop even on the days that it is closed. Willing to help with recruitment."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9509988,40.8264114 ]
+    },
+    "properties": {
+    "Venue Name":"Rite Aid",
+    "Type of Location":"Retail",
+    "Address":"3539 Broadway, New York, NY, 10031",
+    "Zipcode":10031,
+    "Venue Description":"Serve approximatlely 100-200 customers per day. Said it's consistently very busy between 11am and 7pm. Said most of their customers are between 40-50 years old, and that 40% are above 60. Mentioned that they get a lot of returning customers. Enough room outside to set up a recruitment station. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9546106,40.8051444 ]
+    },
+    "properties": {
+    "Venue Name":"Rite Aid",
+    "Type of Location":"Retail",
+    "Address":"2170 Frederick Douglass Blvd., New York, NY, 10026 ",
+    "Zipcode":10026,
+    "Venue Description":"Receive roughly 500 customers per day. Store was very busy and the street outside the venue was highly trafficked. Ample room for a recruitment station."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9177512,40.8073238 ]
+    },
+    "properties": {
+    "Venue Name":"Rite Aid",
+    "Type of Location":"Retail",
+    "Address":"537-539 E 138th St, Bronx, NY 10454",
+    "Zipcode":10454,
+    "Venue Description":"Mainly elderly people, adults shopping. Busiest times are noon, and most of the afternoon (3pm-7pm). Interviewee said the store most likely did not want to be contacted again, because they are very busy. But there is a large space in front of the store on a main street, so there would be a lot of foot traffic."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9389096,40.7990132 ]
+    },
+    "properties": {
+    "Venue Name":"Rite Aid ",
+    "Type of Location":"Retail",
+    "Address":"2155 3rd Ave, New York, NY 10035",
+    "Zipcode":10035,
+    "Venue Description":"On a very busy street with people passing by constantly,. The owners are willing to help with study but that many people were in the store,  but manager said they get a lot of customers throughout the week. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9493456,40.8304156 ]
+    },
+    "properties": {
+    "Venue Name":"Riverside Dr. & W 150th St. ",
+    "Type of Location":"Retail Venue Cluster",
+    "Address":"730 Riverside Dr #3C, New York, NY 10031, United States",
+    "Zipcode":10031,
+    "Venue Description":"A very crowded 'parkette' adjacent to Riverside Drive; Riverside was busy with foot traffic at this time as well. Might be somewhat difficult to access the parkette for recruitment, but it is definitely doable. Predominantly 60+ age individuals. Seemed to be busy for a Biden-Harris/Black Women celebration, but people in the crowd commented that it is usually very busy. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9726722,40.7985741 ]
+    },
+    "properties": {
+    "Venue Name":"Riverside Drive Between 101st and 100",
+    "Type of Location":"Recreational",
+    "Address":"280 Riverside Dr, New York, NY 10025, United States",
+    "Zipcode":10025,
+    "Venue Description":"The park is in a very residential area. Most people in the park were jogging or walking back from the park, while it was fairly busy, I am not 100% confident that people would want to be stopped to be asked questions about COVID. There is a lot of space to set up something, but you might have better luck earlier in the day-time rather than the evening."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.956822,40.8050482 ]
+    },
+    "properties": {
+    "Venue Name":"Riverside Park",
+    "Type of Location":"Recreational",
+    "Address":"Riverside Park between W 116th St. & W 118th St.",
+    "Zipcode":10027,
+    "Venue Description":"Steady flow of foot traffic. The area is moderately accessible. There were 5 smaller playgrounds (\"tot lots\") in sucession that were populated by families. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9686316,40.7959946 ]
+    },
+    "properties": {
+    "Venue Name":"Ryan Health ",
+    "Type of Location":"Other",
+    "Address":" 801 Amsterdam Ave, New York, NY 10025",
+    "Zipcode":10025,
+    "Venue Description":"Just reach out, they want more information as to what this entails, but are willing to help.  The windows were boarded up due to the fear mongering pertaining to the election results but other than that the sidewalk is in a good area with a lot of passersby. It is also next to a school with a busy plauground. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8955185,40.8522533 ]
+    },
+    "properties": {
+    "Venue Name":"Salvation Army Bronx Tremont Corps Community Center",
+    "Type of Location":"Other",
+    "Address":"2121 Washington Ave, Bronx, NY 10457",
+    "Zipcode":10457,
+    "Venue Description":"At this time there seems to be a distribution of supplies or food. Diverse group came throughout the observation period to pick up supplies/food. Food pantry is Tuesday, Thursday, and Friday from 11am-1pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9576436,40.8117962 ]
+    },
+    "properties": {
+    "Venue Name":"Sapphire Discount Mart",
+    "Type of Location":"Retail",
+    "Address":"1290 Amsterdam Ave., New York, NY, 10027",
+    "Zipcode":10027,
+    "Venue Description":"Serve roughly 150-250 people per day. Said they are consistently busy throughout the day,  although they are much less busy now because of COVID. Ample space for a recruitment station."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9196087,40.8083815 ]
+    },
+    "properties": {
+    "Venue Name":"Saw Mill Playground",
+    "Type of Location":"Recreational",
+    "Address":"488 E 139th St, Bronx, NY 10454",
+    "Zipcode":10454,
+    "Venue Description":"Playgrounds, basketball courts, chess tables, field space, and public restrooms. Mostly kids playing and parents sitting on benches. Some adults use this park to cut between streets, so you could set up recruitment stations at either entrance. Mainly Latinx families staying in the park, but a more diverse group walking through."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9372962,40.8195392 ]
+    },
+    "properties": {
+    "Venue Name":"Sheltering Arms  Day Care ",
+    "Type of Location":"Other",
+    "Address":"669 Lenox Ave, New York, NY 10037",
+    "Zipcode":10037,
+    "Venue Description":"Interview with manager of this particular location. Since this is a large org. you need  to reach out to Shana Hweitt. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9681544,40.8012986 ]
+    },
+    "properties": {
+    "Venue Name":"Six Corners Marketplace",
+    "Type of Location":"Retail",
+    "Address":"2755 Broadway, New York, NY, 10025",
+    "Zipcode":10025,
+    "Venue Description":"Venue is located on a crowded street corner; it was adjacent to a bus stop so there was lots of traffic around the establishment as well as inside. At ~8am, most of the patrons were adults. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9036187,40.8120651 ]
+    },
+    "properties": {
+    "Venue Name":"Southern Blvd & 149th",
+    "Type of Location":"Retail Venue Cluster",
+    "Address":"540 Southern Blvd, The Bronx, NY 10455, United States",
+    "Zipcode":10455,
+    "Venue Description":"- the large pedestrian triangle between Prospect Ave, Southern Blvd, and 149th St offers a good space for a potential 'recruitment tent' setup\n- this space has multiple transit access points: 149th St station on the 6 train, stops for the Bx17 & Bx19 buses, and another, unmarked bus, that seemed to service the area's senior population. I saw ~7-10 people exit each northeastbound bus and ~5-6 people waiting for each southwestbound bus\n- many retail establishments were closed before 9AM, but a fruit stand & tamale cart sustained a vibrant street life\n- majority Spanish-speaking population"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9645585,40.8015256 ]
+    },
+    "properties": {
+    "Venue Name":"Spice Thai NYC ",
+    "Type of Location":"Restaurant",
+    "Address":"975 Amsterdam Ave",
+    "Zipcode":10025,
+    "Venue Description":"Good space on sidewalk for recruitmet. Fairly busy street; very close to Colombia University. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9197971,40.8070216 ]
+    },
+    "properties": {
+    "Venue Name":"St Anns Ave & 137th",
+    "Type of Location":"Retail Venue Cluster",
+    "Address":"217 Brook Ave",
+    "Zipcode":10454,
+    "Venue Description":"- population was predominantly African-American\n- commercial cluster of delis, liquor stores, and restaurants seemed to service the adjacent Mill Brook Homes\n- vibrant street life, especially outside of \"Deli Grocery\""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9170144,40.8085413 ]
+    },
+    "properties": {
+    "Venue Name":"St. Ann's Episcopal Church",
+    "Type of Location":"Place of Worship",
+    "Address":"295 St Ann's Ave, Bronx, NY 10454",
+    "Zipcode":10454,
+    "Venue Description":"This period seemed to be a time people could get food/supplies from the church. There was a long line of people waiting--mostly adults, mainly African-American and Latinx. Would be easy and safe to set up recruitment stations at the front of the line."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.899055,40.8519559 ]
+    },
+    "properties": {
+    "Venue Name":"St. Jerome's Church",
+    "Type of Location":"Place of Worship",
+    "Address":"330 E 180th",
+    "Zipcode":10454,
+    "Venue Description":"- church staff did not have time for interview, so I conducted an observation inside, where a small service was ongoing\n- Roman Catholic Church, with overwhelmingly Hispanic congregation – Mexican & Puerto Rican insignia outside\n- Walked by again @ 11am; there was a line of ~40 for the food pantry, which is open from 10am-1pm every Wed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9540372,40.8117964 ]
+    },
+    "properties": {
+    "Venue Name":"St. Joseph of the Holy Family",
+    "Type of Location":"Place of Worship",
+    "Address":"405 W 125th St., New York, NY, 10027",
+    "Zipcode":10027,
+    "Venue Description":"Food pantry on Saturdays at the church from 8:00-12:00 (next one is Nov 21). At a very busy intersection with heavy and consistent traffic flow. Enough room to set up a recruitment station. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9118252,40.8138914 ]
+    },
+    "properties": {
+    "Venue Name":"St. Mary's Park",
+    "Type of Location":"Recreational",
+    "Address":"Intersection of Eagle Ave and E 149th St, Bronx, NY 10455",
+    "Zipcode":10455,
+    "Venue Description":"There seemed to be a demonstration at the entrance to the park during my observation. Large group of people stood around or sat on the benches nearby. Very open space, would be good and safe to set up a tent/recruitment station"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9141038,40.8113663 ]
+    },
+    "properties": {
+    "Venue Name":"St. Mary's Park West",
+    "Type of Location":"Recreational",
+    "Address":"450 St Anns Ave, Bronx, NY 10455",
+    "Zipcode":10455,
+    "Venue Description":"Many games of basketball were being played, a large number of adolescent boys were playing. Public restroom, tennis courts, playground, basketball courts. Some open areas that would be good for a tent/recruitment station."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.949734,40.817922 ]
+    },
+    "properties": {
+    "Venue Name":"St. Nicholas Park",
+    "Type of Location":"Recreational",
+    "Address":"St. Nicholas Ave. & W 135th St., New York, NY, 10030",
+    "Zipcode":10030,
+    "Venue Description":"A large amount of open space in the park and on the sidewalk adjacent to the park. Many people were staying in the park for prolonged time periods. Additionally, there was a pretty steady flow of traffic through the park and on St. Nicholas Ave. over the observation period. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.959122,40.815045 ]
+    },
+    "properties": {
+    "Venue Name":"Starbucks",
+    "Type of Location":"Retail",
+    "Address":"3165 Broadway, New York, NY, 10027",
+    "Zipcode":10027,
+    "Venue Description":"Typically see 350-450 people per day. Said most of their customer base is 20-35 year olds from Columbia. Don't really serve an elderly population. Steady traffic flow outside of the venue. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9624787,40.8054543 ]
+    },
+    "properties": {
+    "Venue Name":"Strokos",
+    "Type of Location":"Retail",
+    "Address":"1090 Amseterdam Ave., New York, NY, 10025",
+    "Zipcode":10025,
+    "Venue Description":"The venue (inside the store) was moderately busy around 9:35 am; the area outside the venue was bustling as lots of people walked around Mt. Sinai hospital. Manager said that they serve approximately 100 customers per day. Said it was consistently busy throughout the day  and couldn't identify specific set of busiest hours."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9488864,40.797814 ]
+    },
+    "properties": {
+    "Venue Name":"Sunshine Learning Center ",
+    "Type of Location":"School",
+    "Address":"1330 5th Ave New York, NY 12006 ",
+    "Zipcode":10026,
+    "Venue Description":"Manager only in sometimes, but Ms. Diaz is very willing to work with COMPASS. There is substantial sidewalk space allowing for recruitment stations to be set up \n\n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.952535,40.8241393 ]
+    },
+    "properties": {
+    "Venue Name":"Super Value Meat Market ",
+    "Type of Location":"Retail",
+    "Address":"3461 Broadway New York, NY 10031",
+    "Zipcode":10031,
+    "Venue Description":"Good space outside, on a corner. Slow during sunday morning visit, but seeing that it is on Broadway Ave. it's bound to be a hotspot. POC dominant shoppers, but he did not specify. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9252355,40.8284072 ]
+    },
+    "properties": {
+    "Venue Name":"Taco Bell Cantina",
+    "Type of Location":"Restaurant",
+    "Address":"880 River Ave",
+    "Zipcode":10452,
+    "Venue Description":"- Damgeli estimated that she sees 300 daily customers\n- the age of her patrons ranges from 17 to 64, but skews younger, with an average customer age of ~24; the largest customer demographic is adolescent females\n- the clientele is split evenly, ~50% black and ~50% hispanic\n- the Taco Bell's busy hours are in the afternoons, from 2p-5p; Damgeli would prefer to be contacted before these times"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9639459,40.8035598 ]
+    },
+    "properties": {
+    "Venue Name":"The Hungarian Pastry Shop",
+    "Type of Location":"Restaurant",
+    "Address":"1030 Amsterdam Ave., New York, NY, 10025",
+    "Zipcode":10025,
+    "Venue Description":"The venue (inside the store and outside seating) was very busy - approximately 15 people were eating outside, 3 people were eating inside and ~10 people entered the store over the course of ~6 minutes. Manager said that they receive ~200 customers per day. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.970674,40.7906226 ]
+    },
+    "properties": {
+    "Venue Name":"The Manhattan Childrens Center",
+    "Type of Location":"School",
+    "Address":"124 W 92nd Street ",
+    "Zipcode":10025,
+    "Venue Description":"There is sidewalk space that would be good for recruitment. Also there is another location to this school a few blocks north. This location is also right off of a busy avenue that has a lot of apartments and stores. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9012143,40.8385051 ]
+    },
+    "properties": {
+    "Venue Name":"Third & Claremont Ave",
+    "Type of Location":"Retail Venue Cluster",
+    "Address":"3855 Third Ave",
+    "Zipcode":10457,
+    "Venue Description":"- this retail cluster includes a dental office, tax services, pharmacy, cell phone store, and several restaurants, the most popular of which being a mobile money agent on the southwest corner of Claremont and Third Avenue"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9041438,40.8210686 ]
+    },
+    "properties": {
+    "Venue Name":"Tinton & 161st",
+    "Type of Location":"Street Venue Cluster",
+    "Address":"770 E 161st",
+    "Zipcode":10456,
+    "Venue Description":"- an older crowd of men (avg age ~45) gathered outside the commercial row (convenience store, liquor store, deli), while an adolescent crowd (avg age ~17) played basketball in courts across the street\n- this retail cluster draws heavily from the NYCHA McKinley homes (725 E 161st St)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.895178,40.8451809 ]
+    },
+    "properties": {
+    "Venue Name":"Tremont Park",
+    "Type of Location":"Recreational",
+    "Address":"530 E Tremont Ave, Bronx, NY 10457",
+    "Zipcode":10457,
+    "Venue Description":"Large park with benches and playgrounds. Main activity is on the corner of E Tremont Ave and Arthur Ave. Diverse group of ages. Large space in center for a recruitment station."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9173297,40.840375 ]
+    },
+    "properties": {
+    "Venue Name":"Vault",
+    "Type of Location":"Retail Venue Cluster",
+    "Address":"1 E 170th St, Bronx, NY 10452",
+    "Zipcode":10452,
+    "Venue Description":"Large clothing store. Busiest from 2-6pm. Space next to store for a tent. Best to reach manager after 6/7pm. On a busy road/retail cluster, there would be a lot of foot traffic."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.95309,40.8109751 ]
+    },
+    "properties": {
+    "Venue Name":"W 125th St. and Frederick Douglass Blvd.",
+    "Type of Location":"Street Venue Cluster",
+    "Address":"W 125th St. (observation done on the north side of the street) between Frederick Douglas Blvd. & Adam Clayton Powell Jr. Blvd., New York, NY, 10027",
+    "Zipcode":10027,
+    "Venue Description":"Area was consistently busy over the 30-minute observation period. Although there was a lot of traffic to one specific store (Game Stop), there was also a lot of traffic on the street not directed to any particular retail attraction."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9529335,40.8077819 ]
+    },
+    "properties": {
+    "Venue Name":"W 125th St. and St. Nicholas Avenue",
+    "Type of Location":"Street Venue Cluster",
+    "Address":"W 125th St. (observation done on the south side of the street) between Fredrick Douglas Blvd. & St. Nicholas Ave., New York, NY, 10027",
+    "Zipcode":10027,
+    "Venue Description":"Approximately 20% of the traffic was to the Old Navy on this street, but there was also a lot of foot traffic in the area not directed to any particular retail store. Consistently busy over the & 30-minute observation period. Definitely enough room to set up research materials and recruit."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9129806,40.8194552 ]
+    },
+    "properties": {
+    "Venue Name":"Walgreens",
+    "Type of Location":"Retail Venue Cluster",
+    "Address":"3012 Third Ave, Bronx, NY 10455",
+    "Zipcode":10455,
+    "Venue Description":"Busiest times are 12pm-5pm (afternoon). Manager estimated that during the busy times there are 50 people in the store on average. It is not privately owned. On a busy street, the retail cluster (Third Ave). Mainly adults and elderly people."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9188208,40.8255095 ]
+    },
+    "properties": {
+    "Venue Name":"Walgreens",
+    "Type of Location":"Retail Venue Cluster",
+    "Address":"244 E 161st St, Bronx, NY 10451",
+    "Zipcode":10451,
+    "Venue Description":"Busy times are 7am-12pm, 1-4pm. Part of a retail cluster (E 161st St), next to a large shopping center (Concourse Plaza). A lot of foot traffic, could park a van outside. Spoke to manager on the phone, he did not want to give personal contact information and said to use the store information."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9170144,40.8396812 ]
+    },
+    "properties": {
+    "Venue Name":"Walgreens",
+    "Type of Location":"Retail Venue Cluster",
+    "Address":"32 E 170th St, Bronx, NY 10452",
+    "Zipcode":10452,
+    "Venue Description":"Busiest times are 12-3pm and 5-9pm. Diverse group of people throughout the day. On a busy road/retail cluster, there would be a lot of foot traffic. Manager declined to give contact information."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.894508,40.8467162 ]
+    },
+    "properties": {
+    "Venue Name":"Walter Gladwin Park",
+    "Type of Location":"Recreational",
+    "Address":"563 E Tremont Ave",
+    "Zipcode":10457,
+    "Venue Description":"- the north end of Walter Gladwin Park, which parallels the Tremont Ave commercial corridor, has significantly more people than the south end of the park, which parallels the Cross-Bronx Expressway\n- Seniors congregated on benches that line the northeast walkway; the produce stand at the mouth of Lafontaine Ave had a decent crowd, while many more cut through the pedestrian roundabout on their morning commute\n- these numbers may be underrepresentative; a heavy presence of park department leaf-blowers seemed to deter the formation of a larger crowd\n- parkgoers were predominantly male"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9084057,40.827686 ]
+    },
+    "properties": {
+    "Venue Name":"Washington Ave between 166th & 167th",
+    "Type of Location":"Street Venue Cluster",
+    "Address":"1070-1155 Washington Ave",
+    "Zipcode":10456,
+    "Venue Description":"- this stretch of Washington Ave is dominated by auto body shops, used car dealerships, and salvage yards, all of which seem to be owned and operated by West African men\n- as auto workers clocked out, they congregated in chairs on Washington & 166th; firefighters lingered after a shift change outside their station at Washington & 167th"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8974712,40.8468157 ]
+    },
+    "properties": {
+    "Venue Name":"Washington Pharmacy Corp",
+    "Type of Location":"Retail",
+    "Address":"484 E Tremont Ave, Bronx, NY 10457",
+    "Zipcode":10457,
+    "Venue Description":"Busiest times are 9am-12pm. Privately owned. Mainly adults. Mainly women."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8978679,40.8427981 ]
+    },
+    "properties": {
+    "Venue Name":"Wendy's",
+    "Type of Location":"Restaurant",
+    "Address":"4040 Third Ave",
+    "Zipcode":10457,
+    "Venue Description":"- this Wendy's has a very sizable parking lot (~225,000 sq ft), providing more than enough room for a recruitment tent or van\n- Natasha says that her Wendy's gets 600 customers daily, with ~500 arriving by car and ~100 by foot; she says that a significant proportion of her in-person clientele are delivery workers (Doordash & Uber Eats, mainly)\n- She says her average customer is 30-35 years old, with very few children and seniors; her customer base has a noticable male skew and is predominantly Spanish-speaking"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9441181,40.8146042 ]
+    },
+    "properties": {
+    "Venue Name":"West 134th and Adam Clayton ",
+    "Type of Location":"Street Venue Cluster",
+    "Address":"West 134th and Adam Clayton Blvd New York, NY 10030",
+    "Zipcode":10030,
+    "Venue Description":"This is a fairly busy street with a wide sidewalk.  Furthermore, there is a  good amount of people sitting on their stoops. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9540395,40.821355 ]
+    },
+    "properties": {
+    "Venue Name":"West 137th and Broadway ",
+    "Type of Location":"Street Venue Cluster",
+    "Address":"West 137th Street and Broadway ",
+    "Zipcode":10031,
+    "Venue Description":"Stores all closed at this time, most people counted were constuction workers,  most people who were around were getting coffee or walking their dogs, started getting busy around 7:45.  SUNDAY MORNINGS ARE ALWAYS SLOW IN HARLEM ESP IN RESIDENTIAL AREAS. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9419386,40.8178866 ]
+    },
+    "properties": {
+    "Venue Name":"West 139th and Adam Clayton ",
+    "Type of Location":"Street Venue Cluster",
+    "Address":"West 139th and Adam Clayton BLVD New York, NY 10030",
+    "Zipcode":10030,
+    "Venue Description":"Ample sidewalk space with moderate foot traffic there is nothing obstructing the sidwalk. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9662993,40.8042726 ]
+    },
+    "properties": {
+    "Venue Name":"Westside Market",
+    "Type of Location":"Retail",
+    "Address":"2840 Broadway, New York, NY, 10025",
+    "Zipcode":10025,
+    "Venue Description":"Venue was busy with patrons (mostly adults) spanning racial categories. Manager said they receive ~3,500 patrons per day. Street area outside was also a high-traffic area, but there would still be enough room for researchers to set up tables, etc. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9461771,40.8076461 ]
+    },
+    "properties": {
+    "Venue Name":"Whole Foods Market ",
+    "Type of Location":"Retail",
+    "Address":"100 W 125th St, New York, NY 10027",
+    "Zipcode":10027,
+    "Venue Description":"About 500 shoppers come in daily, demographics unknown, but happy to be contacted. Does not have a sense of the demographics of shoppers."
+    }
+  }
+]
+}
